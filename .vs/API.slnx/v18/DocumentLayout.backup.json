@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|c:\\users\\eaegu\\onedrive\\projects\\web\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|c:\\users\\eaegu\\onedrive\\projects\\web\\api\\api\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|solutionrelative:api\\dto\\autor\\autorcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|c:\\users\\eaegu\\onedrive\\projects\\web\\api\\api\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|solutionrelative:api\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|c:\\users\\eaegu\\onedrive\\projects\\web\\api\\api\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C7D8BC-CC13-707E-864F-9CE5A0DFCA9F}|API\\EstudosEntity.csproj|solutionrelative:api\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorCriacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "RelativeDocumentMoniker": "API\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "ToolTip": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "RelativeToolTip": "API\\Dto\\Autor\\AutorCriacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:05:58.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:41:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\Autor\\AutorService.cs",
+              "ToolTip": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "API\\Services\\Autor\\AutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:07:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Services\\Livro\\LivroService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\Livro\\LivroService.cs",
+              "ToolTip": "C:\\Users\\eaegu\\OneDrive\\Projects\\WEB\\API\\API\\Services\\Livro\\LivroService.cs",
+              "RelativeToolTip": "API\\Services\\Livro\\LivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:07:35.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
